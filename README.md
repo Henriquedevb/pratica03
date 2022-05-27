@@ -4,12 +4,12 @@
 
 # Tela de login
 
-(login)[https://github.com/Henriquedevb/pratica03/blob/master/assets/login.png]
+![login](https://github.com/Henriquedevb/pratica03/blob/master/assets/login.png)
 
 # Tela da Listagem
 
-(lista)[https://github.com/Henriquedevb/pratica03/blob/master/assets/lista.png]
+![lista](https://github.com/Henriquedevb/pratica03/blob/master/assets/lista.png)
 
 # Tela de Cadastro
 
-(cadastro)[https://github.com/Henriquedevb/pratica03/blob/master/assets/cadastro.png]
+![cadastro](https://github.com/Henriquedevb/pratica03/blob/master/assets/cadastro.png)
